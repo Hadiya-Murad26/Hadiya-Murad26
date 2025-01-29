@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Hadiya Murad
+- 👋 Hi, I’m Hadiya Murad Hadi
 - 👀 I’m interested in data science, web development, and creating aesthetic designs.
 - 🌱 I’m currently learning advanced data visualization techniques, machine learning, and different programming languages.
 - 💞️ I’m looking to collaborate on open-source projects related to data analysis, web development, and any creative coding challenges.
